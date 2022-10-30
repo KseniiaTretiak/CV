@@ -1,0 +1,291 @@
+.all{
+background: linear-gradient(180deg, #7000FF 0%, #FF0000 100%);
+display: inline-flex;
+}
+.left{
+margin-left: 7px;
+margin-top: 5px;
+width: 500px;
+height: 832px;
+left: 7px;
+top: 5px;
+background: rgba(255, 255, 255, 0.2);
+border-radius: 5px
+}
+.my-name{
+    padding-left: 122px;
+    padding-top: 17px;
+width: 255px;
+height: 45px;
+left: 29px;
+top: 22px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 45px;
+color: #FFFFFF;
+}
+.my-photo{
+ border-radius: 50px;
+ margin-left: 150px;
+}
+.my-home-but{
+    margin-left: 94px;
+    margin-top: 10px;
+width: 287px;
+height: 40px;
+left: 17px;
+top: 572px;
+background: rgba(255, 255, 255, 0.2);
+border-radius: 50px;
+}
+.my-home-mail{
+    display: flex;
+    margin-left: 94px;
+    margin-top: 10px;
+width: 287px;
+height: 40px;
+left: 17px;
+top: 572px;
+background: rgba(255, 255, 255, 0.2);
+border-radius: 50px;  
+}
+.homesvgg{
+    padding-left: 94px;
+    padding-top: 12px;
+width: 19.13px;
+height: 17px;
+left: 31px;
+top: 584px;
+}
+.my-home{
+
+height: 16px;
+left: 64px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.mail{
+    padding-left: 14px;
+    padding-top: 12px;
+width: 19.13px;
+height: 17px;
+left: 31px;
+top: 584px;   
+}
+.my-mail{
+    height: 16px;
+    left: 64px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;  
+}
+
+.languages{
+margin-left: 94px;
+margin-top: 41px;
+height: 19px;
+left: 22px;
+top: 640px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.ukraine{
+    margin-left: 94px;
+    margin-top: 20px;
+width: 303px;
+height: 16px;
+left: 22px;
+top: 706px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.group{
+    margin-top: 20px;
+    width: 132px;
+height: 20px;
+left: 95px;
+top: 704px;
+}
+.right{
+    margin-left: 40px;
+    margin-top: 5px;
+width: 955px;
+height: 832px;
+left: 263px;
+top: 5px;
+background: #FFFFFF;
+border-radius: 5px;
+}
+.experbut{
+margin-left: 80px;
+width: 244px;
+height: 35px;
+left: 277px;
+top: 27px;
+background: #DE0F16;
+border-radius: 50px
+}
+.my-experience{
+    padding-left: 55px;
+    padding-top: 8px;
+width: 188px;
+height: 19px;
+left: 302px;
+top: 35px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.line{
+    margin-left: 293px;
+    transform: translateY(-19px);
+  width: 600px;
+  height: 0px;
+  left: 415px;
+  top: 44px;
+  background: #DE0F16;
+  border: 2px solid #DE0F16;    
+}
+
+.name-work{
+    margin-top: 28px;
+margin-left: 80px;
+height: 16px;
+left: 277px;
+top: 71px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+color: #000000;
+}
+.responsibilities{
+    margin-top: 5px;
+ margin-left: 80px;  
+height: 16px;
+left: 277px;
+top: 90px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+color: #DE0F16;
+}
+.my-respon{
+   padding-top: 5px;
+    margin-left: 80px;
+height: 48px;
+left: 277px;
+top: 110px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+color: #847D7D;
+}
+.work-acad{
+    margin-left: 80px;
+    margin-top: 57px;
+    height: 16px;
+    left: 277px;
+    top: 71px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: capitalize;  
+    color: #000000; 
+}
+.my-respon-acad{
+    margin-left: 80px;
+height: 48px;
+left: 277px;
+top: 110px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+color: #847D7D;
+}
+.educbut{
+    margin-top: 122px;
+    margin-left: 80px;
+    width: 244px;
+    height: 35px;
+    left: 277px;
+    top: 27px;
+    background: #DE0F16;
+    border-radius: 50px  
+}
+.lineedu{
+    margin-left: 293px;
+    transform: translateY(-19px);
+  width: 600px;
+  height: 0px;
+  left: 415px;
+  top: 44px;
+  background: #DE0F16;
+  border: 2px solid #DE0F16;   
+}
+.education{
+    padding-left: 90px;
+    padding-top: 8px;
+    height: 19px;
+left: 302px;
+top: 35px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.my-education{
+    margin-left: 95px;
+    margin-right: 25px;
+    height: 48px;
+left: 277px;
+top: 206px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+color: #847D7D;
+}
